@@ -60,7 +60,7 @@ Desenvolver dias fracos: criar ações específicas para quarta-feira e domingo,
 Opção 1 — Google Colab
 Acesse Google Colab.
 
-Faça upload dos arquivos PY_06_EDA_Vendas_Colab.ipynb e sales_data.csv.
+# Faça upload dos arquivos PY_06_EDA_Vendas_Colab.ipynb e sales_data.csv.
 
 ## 📁 Estrutura do Projeto
 
@@ -83,7 +83,8 @@ Código
 ├── sales_data_analisado.csv
 
 └── requirements.txt
-🚀 Possíveis Melhorias
+
+## 🚀 Possíveis Melhorias
 Dashboards interativos com Power BI ou Plotly.
 
 Modelos de previsão de vendas.
