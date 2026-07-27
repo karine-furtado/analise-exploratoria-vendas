@@ -16,7 +16,7 @@ Matplotlib
 
 Seaborn
 
-Instalação:
+# Instalação:
 
 bash
 pip install pandas matplotlib seaborn notebook
@@ -67,12 +67,21 @@ Faça upload dos arquivos PY_06_EDA_Vendas_Colab.ipynb e sales_data.csv.
 Código
 📦 Analise-Exploratoria-Vendas
 │
+
 ├── images
-│   └── grafico_vendas_semana.png
+
+│   
+
+└── grafico_vendas_semana.png
+
 ├── PY_06_EDA_Vendas_Colab.ipynb
+
 ├── README.md
+
 ├── sales_data.csv
+
 ├── sales_data_analisado.csv
+
 └── requirements.txt
 🚀 Possíveis Melhorias
 Dashboards interativos com Power BI ou Plotly.
