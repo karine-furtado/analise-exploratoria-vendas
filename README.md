@@ -61,18 +61,6 @@ Acesse Google Colab.
 
 Faça upload dos arquivos PY_06_EDA_Vendas_Colab.ipynb e sales_data.csv.
 
-Execute todas as células do notebook.
-
-Opção 2 — Jupyter Notebook
-bash
-git clone https://github.com/SEU-USUARIO/NOME_DO_REPOSITORIO.git
-cd NOME_DO_REPOSITORIO
-python -m venv .venv
-.venv\Scripts\activate
-pip install pandas matplotlib seaborn notebook
-jupyter notebook
-Abra o arquivo PY_06_EDA_Vendas_Colab.ipynb e execute todas as células.
-
 📁 Estrutura do Projeto
 Código
 📦 Analise-Exploratoria-Vendas
