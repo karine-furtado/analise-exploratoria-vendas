@@ -9,7 +9,7 @@ sales_data_analisado.csv — arquivo gerado ao final da análise contendo os dad
 
 PY_06_EDA_Vendas_Colab.ipynb — notebook com inspeção, agrupamentos, visualizações e conclusões.
 
-🛠️ Bibliotecas Utilizadas
+## 🛠️ Bibliotecas Utilizadas
 Pandas
 
 Matplotlib
@@ -20,7 +20,8 @@ Instalação:
 
 bash
 pip install pandas matplotlib seaborn notebook
-📈 Etapas da Análise
+
+## 📈 Etapas da Análise
 Importação das bibliotecas.
 
 Leitura do conjunto de dados (sales_data.csv).
@@ -37,7 +38,7 @@ Interpretação dos resultados e recomendações práticas.
 
 Exportação do dataset tratado (sales_data_analisado.csv).
 
-📊 Principais Conclusões
+## 📊 Principais Conclusões
 Terça-feira foi o dia mais forte, com maior volume de vendas (1000).
 
 Quarta-feira e Domingo foram os dias mais fracos, com apenas 200 vendas cada.
@@ -50,18 +51,18 @@ O final de semana mostrou queda significativa, principalmente no domingo.
 
 Esses resultados sugerem que o planejamento de estoque e campanhas promocionais devem ser ajustados conforme o comportamento semanal.
 
-🎯 Recomendações
+## 🎯 Recomendações
 Aproveitar dias fortes: reforçar estoque e campanhas promocionais às terças-feiras e segundas-feiras.
 
 Desenvolver dias fracos: criar ações específicas para quarta-feira e domingo, como descontos ou combos, e medir o impacto comparando o crescimento percentual das vendas.
 
-▶️ Como Executar
+## ▶️ Como Executar
 Opção 1 — Google Colab
 Acesse Google Colab.
 
 Faça upload dos arquivos PY_06_EDA_Vendas_Colab.ipynb e sales_data.csv.
 
-📁 Estrutura do Projeto
+## 📁 Estrutura do Projeto
 Código
 📦 Analise-Exploratoria-Vendas
 │
