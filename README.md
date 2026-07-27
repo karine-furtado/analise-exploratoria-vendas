@@ -63,6 +63,7 @@ Acesse Google Colab.
 Faça upload dos arquivos PY_06_EDA_Vendas_Colab.ipynb e sales_data.csv.
 
 ## 📁 Estrutura do Projeto
+
 Código
 📦 Analise-Exploratoria-Vendas
 │
